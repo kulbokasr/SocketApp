@@ -1,0 +1,16 @@
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\bin\Debug\net5.0\SocketApp.exe
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\bin\Debug\net5.0\SocketApp.deps.json
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\bin\Debug\net5.0\SocketApp.runtimeconfig.json
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\bin\Debug\net5.0\SocketApp.runtimeconfig.dev.json
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\bin\Debug\net5.0\SocketApp.dll
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\bin\Debug\net5.0\SocketApp.pdb
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\SocketApp.csproj.AssemblyReference.cache
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\SocketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\SocketApp.AssemblyInfoInputs.cache
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\SocketApp.AssemblyInfo.cs
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\SocketApp.csproj.CoreCompileInputs.cache
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\SocketApp.dll
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\refint\SocketApp.dll
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\SocketApp.pdb
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\SocketApp.genruntimeconfig.cache
+C:\Users\kulbo\Desktop\Danske uzduotis\SocketApp\SocketApp\obj\Debug\net5.0\ref\SocketApp.dll
